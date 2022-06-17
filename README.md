@@ -1,3 +1,11 @@
+## EXAMPLE.ENV Instruction:
+
+Remove example from example.env
+In your .env file add URL to REACT_APP_GET_ANIMALS=ANIMAL-URL-HERE
+
+Or create a new .env file and add:
+REACT_APP_GET_ANIMALS=ANIMAL-URL-HERE
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
